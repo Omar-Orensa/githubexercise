@@ -1,3 +1,6 @@
 # githubexercise
 # Team Members
-Zeina Shalaby
+
+* Amr Hegazy
+* Zeina Shalaby
+
