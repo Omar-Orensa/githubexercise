@@ -1,2 +1,2 @@
 # githubexercise
-# Team Memebers
+# Team Members
